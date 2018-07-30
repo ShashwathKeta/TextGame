@@ -1,0 +1,4 @@
+﻿  TextGame.cpp
+c:\users\shash\source\repos\textgame\textgame\textgame.cpp(76): warning C4551: function call missing argument list
+c:\users\shash\source\repos\textgame\textgame\textgame.cpp(119): warning C4101: 'choice': unreferenced local variable
+  TextGame.vcxproj -> C:\Users\Shash\source\repos\TextGame\Debug\TextGame.exe
